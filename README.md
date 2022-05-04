@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guadamvo
 - 👀 I’m interested in  la programación,la tecnologia y la musica.
 - 🌱 I’m currently learning  a programar en c++ y proximamente js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  lo que pueda.:)
 - 📫 How to reach me :guaditar8@gmail.com 
 
 <!---
